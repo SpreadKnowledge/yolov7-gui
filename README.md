@@ -2,7 +2,8 @@
 It's easy to run YOLOv7 with GUI. Furthermore, it graphs the results of the count of detected objects.
 You can already analyze your image data in YOLOv7 without complicated options or additional code.
 
-![yolov7-gui](https://github.com/tmori2918/yolov7-gui/assets/56751392/438090e4-5a2c-4a33-a65e-0be977fcdee4)
+![yolov7-gui](https://github.com/SpreadKnowledge/yolov7-gui/assets/56751392/be963e6b-87b8-422a-85ed-bac66e711764)
+
 
 Most of the code in this repository is appropriated from [yolov7](https://github.com/WongKinYiu/yolov7).
 
