@@ -16,9 +16,16 @@ cd yolov7-gui
 pip install -r requirements.txt
 ```
 ## Download yolov7 model
+
 Download the yolov7 pt file of your choice from the "Testing" section of [this website](https://github.com/WongKinYiu/yolov7). 
 Then save it to a directory of your choice.
 You can also use your original yolov7 model.
+
+## Prepare
+
+Please put together the image data you want YOLOv7 to detect objects into one directory.
+Then, copy the data to a location of your choice.
+*Note: This GUI application can only read image directories. It cannot object detect videos.
 
 # Run yolov7-gui application
 ```
